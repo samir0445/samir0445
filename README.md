@@ -21,6 +21,9 @@
   <a href="mailto:samir.jadhav.dev@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+	<a href="https://www.linkedin.com/in/samir-jadhav-1063342bb/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <br>
 <!-- <a href="https://github.com/Tirth-955">
     <img src="https://komarev.com/ghpvc/?username=Tirth-955&style=flat-square">
